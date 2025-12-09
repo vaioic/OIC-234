@@ -45,7 +45,7 @@ This project is in a collaboration with Dr. Junwei Niu, Wen lab.
 
 3. Open the ``analyze_data.ipynb`` notebook
 
-4. Modify the variable ``data_directory`` as needed to point to the folder containing the CSV files
+4. Modify the variables ``data_directory`` and ``output_directory`` to point to the folder containing the image files and to the output directory, respectively
 
 ## Issues
 
